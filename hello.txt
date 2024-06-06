@@ -1,4 +1,3 @@
 hello git!hello zzt！hello thirdchange!（现在我要修改master）
 这是hot-fix分支的文件
-现在我要在远程端修改代码
-现在是demo2在修改的
+现在是hot-fix在修改
