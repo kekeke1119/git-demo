@@ -1,2 +1,2 @@
-hello git!hello zzt！hello thirdchange!
+hello git!hello zzt！hello thirdchange!（这是hot-fix修改的）
 这是hot-fix分支的文件
